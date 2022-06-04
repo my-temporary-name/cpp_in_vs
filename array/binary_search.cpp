@@ -36,7 +36,9 @@ int main()
     cout<<"Enter size: ";
     cin>>n;
     int arr[n];
-// Array must be sorted for binary search
+
+
+// Array must be sorted in ascending for binary search
     cout<<"Enter array values: ";
     for(int i=0;i<n;i++)
     {
