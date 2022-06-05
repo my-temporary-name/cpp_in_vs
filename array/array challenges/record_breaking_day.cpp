@@ -1,13 +1,4 @@
-/*subarrays is continuous part of array ( nC2 + n)
 
-eg: 1 2 3 4 5 6, subarray is: 3 4 5
-
-subsequence is ordered but not continuous(2^n)
-eg: 1 2 3 4 5 6, subsequence is: 2 4 5 
-
-every subarray is subsquence but not vice versa
- (subsequence(subarray))
-*/
 
 #include<iostream>
 using namespace std;
