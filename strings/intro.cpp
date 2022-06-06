@@ -3,7 +3,7 @@
 #include<algorithm>
 using namespace std;
 int main()
-{   /*
+{   
     string r;
     getline(cin,r);
     cout<<"\nWith space: "<<r;
@@ -58,7 +58,7 @@ int main()
     string num="786";
     cout<<stoi(num)+2<<endl;
     int num1=786;
-    cout<<to_string(num1) + "2" <<endl;     */
+    cout<<to_string(num1) + "2" <<endl;     
 
     //to sort string , use headerfile algorithm
 
